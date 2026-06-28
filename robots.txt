@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tdcacademy.com/sitemap.xml
