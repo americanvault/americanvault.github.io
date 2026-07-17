@@ -5,6 +5,7 @@
   <url><loc>https://tdcacademy.com/markets/indicators</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://tdcacademy.com/markets/review</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://tdcacademy.com/markets/courses</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://tdcacademy.com/markets/calendar</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://tdcacademy.com/store</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://tdcacademy.com/support</loc><changefreq>weekly</changefreq><priority>0.4</priority></url>
   <url><loc>https://tdcacademy.com/why-tdc</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
