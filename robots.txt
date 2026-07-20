@@ -1,5 +1,2 @@
 User-agent: *
-Allow: /
-Disallow: /hydropips
-Disallow: /admin
-Sitemap: https://tdcacademy.com/sitemap.xml
+Disallow: /

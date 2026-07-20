@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1600"
+   height="500"
+   viewBox="0 0 1600 500"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="TrimSocial.source.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview37"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs11">
+    <linearGradient
+       id="community"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0"
+         stop-color="#00DCCB"
+         id="stop2" />
+      <stop
+         offset="0.48"
+         stop-color="#13CFCF"
+         id="stop4" />
+      <stop
+         offset="0.52"
+         stop-color="#7134F5"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#5A22E6"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+  <g
+     aria-label="Trim Social emblem"
+     fill="none"
+     stroke="url(#community)"
+     stroke-width="30"
+     stroke-linecap="square"
+     stroke-linejoin="round"
+     id="g17">
+    <path
+       d="M136 174 H223 V217 L171 247 L171 299 L223 329 V371"
+       id="path13" />
+    <path
+       d="M310 174 H267 V217 L319 247 L319 299 L267 329 V371 H223"
+       id="path15" />
+  </g>
+  <g
+     aria-label="community nodes"
+     id="g27">
+    <circle
+       cx="245"
+       cy="126"
+       r="18"
+       fill="#00DCCB"
+       id="circle19" />
+    <circle
+       cx="93"
+       cy="246"
+       r="18"
+       fill="#08D6C8"
+       id="circle21" />
+    <circle
+       cx="397"
+       cy="246"
+       r="18"
+       fill="#7134F5"
+       id="circle23" />
+    <circle
+       cx="245"
+       cy="419"
+       r="18"
+       fill="#6428EB"
+       id="circle25" />
+  </g>
+  <g
+     font-family="Oxanium SemiBold"
+     font-size="174"
+     font-weight="600"
+     letter-spacing="-5"
+     id="g33">
+    <g
+       aria-label="Trim"
+       id="text29"
+       style="fill:#07133f">
+      <path
+         d="M 489.176,225.254 V 205.94 h 96.918 v 19.314 H 548.336 V 326 H 526.934 V 225.254 Z"
+         id="path39" />
+      <path
+         d="m 592.4038,326 v -80.04 q 6.264,-11.31 24.012,-11.31 h 18.27 l 9.222,6.786 v 10.962 h -22.794 q -5.916,0 -8.352,2.958 V 326 Z"
+         id="path41" />
+      <path
+         d="M 655.95975,218.816 V 198.11 h 21.402 v 20.706 z m 0.522,107.184 v -91.35 h 20.358 V 326 Z"
+         id="path43" />
+      <path
+         d="m 697.93979,326 v -91.35 h 104.052 q 27.318,0 27.318,27.492 V 326 h -20.358 v -65.598 q 0,-8.004 -8.004,-8.004 h -27.144 V 326 h -20.358 v -73.602 h -35.148 V 326 Z"
+         id="path45" />
+    </g>
+    <g
+       aria-label="Social"
+       id="text31"
+       style="fill:#7134f5">
+      <path
+         d="m 874.57,317.996 v -11.31 h 53.766 q 7.656,0 7.656,-7.482 V 285.98 q 0,-6.612 -5.916,-7.83 l -35.322,-7.134 Q 874.57,267.014 874.57,243.872 v -9.57 q 0,-28.362 28.362,-28.362 h 40.542 l 10.266,8.004 v 11.31 h -50.286 q -7.656,0 -7.656,7.482 v 11.658 q 0,6.612 5.916,7.83 l 35.322,6.96 q 20.184,4.176 20.184,27.144 v 11.31 Q 957.22,326 928.858,326 h -44.022 z"
+         id="path48" />
+      <path
+         d="m 973.44784,298.508 v -36.366 q 0,-27.492 27.49196,-27.492 h 24.36 q 27.318,0 27.318,27.492 v 36.366 q 0,27.492 -27.318,27.492 h -24.36 q -27.49196,0 -27.49196,-27.492 z m 20.358,1.74 q 0,8.004 8.00396,8.004 h 22.446 q 8.004,0 8.004,-8.004 v -39.846 q 0,-8.004 -8.004,-8.004 h -22.446 q -8.00396,0 -8.00396,8.004 z"
+         id="path50" />
+      <path
+         d="m 1070.934,298.508 v -36.366 q 0,-27.492 27.492,-27.492 h 32.886 l 9.222,6.786 v 10.962 h -41.238 q -8.004,0 -8.004,8.004 v 39.846 q 0,8.004 8.004,8.004 h 41.238 v 10.962 l -9.222,6.786 h -32.886 q -27.492,0 -27.492,-27.492 z"
+         id="path52" />
+      <path
+         d="M 1156.0661,218.816 V 198.11 h 21.402 v 20.706 z m 0.522,107.184 v -91.35 h 20.358 V 326 Z"
+         id="path54" />
+      <path
+         d="m 1220.6661,326 q -27.492,0 -27.492,-27.144 0,-27.144 27.492,-27.144 h 26.796 v -11.31 q 0,-8.004 -8.004,-8.004 h -36.888 v -10.962 l 9.048,-6.786 h 28.884 q 27.318,0 27.318,27.492 V 326 Z m -7.134,-25.752 q 0,8.004 8.004,8.004 h 25.926 v -20.706 h -25.926 q -8.004,0 -8.004,7.83 z"
+         id="path56" />
+      <path
+         d="M 1287.5282,295.724 V 197.24 h 20.358 v 100.572 q 0,11.31 11.484,12.18 v 17.574 q -31.842,0 -31.842,-31.842 z"
+         id="path58" />
+    </g>
+  </g>
+</svg>
